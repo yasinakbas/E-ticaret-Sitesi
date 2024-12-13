@@ -1,0 +1,6 @@
+Bilgisayarımı sıfrlamıştım tekrardan codeigniter dosyalarını yani sizin göndermiş olduğunuz framework dosyalarını indirdim xampp ve vscode u tekrardan indirdim
+Bu hafta kod olarak veya fiilen birsey yaptığımı söyleyemem proje arkadaşım ile görev paylaşımı yaptık.
+Ayrıca proje dosyalarını oluşturdum.
+Kısacası codeigniter ve bilgisayarımı tekrardan hazırladım ve bu hafat bizim için başlangıç haftası oldu diyebiliriz.
+
+2323221046-Furkan Çınar
